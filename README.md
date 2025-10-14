@@ -16,3 +16,34 @@ Every guide follows the same compliance-oriented structure:
 
 ## Intended Use
 These PDFs are designed for state health agencies, Medicaid leaders, rural providers, and collaborative partners preparing CMS RHT applications. They serve as advisory briefs—teams should confirm all figures, statutes, and assumptions against authoritative sources before submission.
+
+## Using AI Tools to Expand Insights
+
+States can leverage AI assistants to deepen their analysis of these guides:
+
+### Loading Documents into AI Tools
+1. **ChatGPT:** Upload PDFs directly through the attachment feature, then prompt specific questions about grant alignment, implementation strategies, or risk mitigation approaches
+2. **Microsoft Copilot:** Import documents into supported Office apps, then use Copilot to generate summaries, extract key requirements, or draft response sections
+3. **Claude or other AI platforms:** Copy relevant text sections and request comparative analysis, dependency mapping, or alternative implementation scenarios
+
+### Effective Prompting Strategies
+- Ask for gap analysis: "What CMS requirements aren't fully addressed in our state's current approach?"
+- Request implementation timelines: "Create a phased rollout plan based on the dependencies listed"
+- Explore partnerships: "Suggest potential collaborative partners based on our state's specific challenges"
+- Generate risk scenarios: "What are the top 5 implementation risks for a state with our Medicaid expansion status?"
+
+### Combining Multiple Documents
+Upload both state guides and supplemental materials together to:
+- Cross-reference collaborative capabilities with specific CMS scoring criteria
+- Map Intermountain Health's proven models to your state's rural landscape
+- Generate customized implementation frameworks that blend best practices with local constraints
+
+## Supplemental Content
+The `Supplemental Content/` folder packages reference material that informs the state guides:
+- `cms-rht-26-001_final.pdf` – the full CMS Rural Health Transformation Program notice of funding opportunity.
+- `Rural Health Transformation Collaborative. R1. 10-11-25.pdf` – the internal overview of collaborative services, dependencies, and engagement process.
+Use these documents to validate policy language, cite authoritative program requirements, and align proposed implementation pathways with proven operating models.
+
+As well as reference material showcasing how hostpical systems have supported rural communities:
+- `Intermountain Health - Rural Health Transformation via Shared Resources Model.pdf` – case study illustrating collaborative delivery models and shared-resource budgeting.
+(More to come....)
