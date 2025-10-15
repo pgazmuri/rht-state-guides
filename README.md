@@ -14,6 +14,11 @@ Every guide follows the same compliance-oriented structure:
 - Option comparisons, dependency tracking, risk registers, and validation checklists
 - A closing AI generation notice that discloses the model used and reminds readers to validate all data
 
+## Response Examples
+The `response_examples/` directory contains full PDF response packets for select states.
+Additional states can be generated on request and will be added to this folder as they are approved for sharing.
+Source DOCX files are intentionally excluded from version control (via `.gitignore`), so the repository surface remains clean while still providing ready-to-distribute PDFs.
+
 ## Intended Use
 These PDFs are designed for state health agencies, Medicaid leaders, rural providers, and collaborative partners preparing CMS RHT applications. They serve as advisory briefs—teams should confirm all figures, statutes, and assumptions against authoritative sources before submission.
 

@@ -1,5 +1,6 @@
-load_guides.py
+*.py
 __pycache__/
 *.pyc
 wkhtmlto*
 libwkhtmlto*
+/response_examples/*.docx
